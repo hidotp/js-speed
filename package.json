@@ -1,0 +1,14 @@
+{
+  "name": "js-speed",
+  "version": "0.0.1",
+  "description": "speed test lib",
+  "main": "runall.js",
+  "scripts": {
+    "run": "node runall.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4"
+  }
+}
